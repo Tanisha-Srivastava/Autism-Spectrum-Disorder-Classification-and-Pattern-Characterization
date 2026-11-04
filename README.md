@@ -105,12 +105,6 @@ Install the required libraries:
 pip install numpy pandas scipy scikit-learn nilearn nibabel shap matplotlib seaborn statsmodels
 ```
 
-## Dataset Setup
-
-1. Download the required ABIDE-I CPAC-preprocessed rs-fMRI data.
-2. Obtain the AAL-116 atlas and corresponding region labels.
-3. Configure the dataset and atlas paths in the project scripts.
-4. Ensure participant connectivity features, diagnostic labels, and acquisition-site information are correctly organized before running the analyses.
 
 ## Key Areas
 
